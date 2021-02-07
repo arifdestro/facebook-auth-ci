@@ -7,7 +7,7 @@ Tools :
 You need :
   1. Facebook App id & Facebook App Secret : https://developers.facebook.com/ 
 
-## Cara Penggunaan
+## Implementation
 1. Run your XAMPP or something else
 2. Setting your config autoload with library('database','session') and helper('url') go to config.php and set base_url to http://localhost/(your directory name)
 3. you can use .htaccess for simple url
