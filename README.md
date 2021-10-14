@@ -9,7 +9,7 @@ You need :
 
 ## Implementation
 1. Run your XAMPP or something else
-2. Setting your config autoload with library('database','session') and helper('url') go to config.php and set base_url to http://localhost/(your directory name)
+2. Setting your config autoload with library('database','session') and helper('url') go to config.php and set base_url to http://localhost/ (your directory name)
 3. you can use .htaccess for simple url
 4. Create new database from phpmyadmin dan import database **DATABASE** in your directory, like `oauth.sql`
 5. Setting your config file on your ci folder `application/config/database.php` :
